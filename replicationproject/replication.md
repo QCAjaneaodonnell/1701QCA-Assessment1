@@ -15,7 +15,16 @@ Temperature Gauge
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](IMG_9072.HEIC)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 1 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](IMG_9072.png)
 
 This project is related to mine because (insert reasons here).
 
