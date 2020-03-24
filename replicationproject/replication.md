@@ -42,7 +42,7 @@ It enabled me to evaluate how user friendly my design is and it gave me a new cr
 
 I would like more deatil about the process of creating a microinteraction.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+I would like to make the Ez-Ki mechanism accessible to all people. Therefore, I had to incorporate a microinteraction and simplify the fuction of the Ez-Ki. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
@@ -75,12 +75,13 @@ I would like more deatil about the process of creating a microinteraction.
 ## Project outcome ##
 
 *Complete the following information.*
+### Title ###
 
-### Project title ###
+Ez-Ki 
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The Ez-Ki is a small device that goes on top of the ice cubes in an esky to monitor the temperature and to let the user know when to replace the ice cubes
 
 ### Showcase image ###
 
