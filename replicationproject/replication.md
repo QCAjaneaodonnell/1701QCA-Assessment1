@@ -1,2 +1,12 @@
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.001.png)
-
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.002.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.003.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.004.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.005.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.008.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.009.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.010.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.011.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.012.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.013.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.014.png)
