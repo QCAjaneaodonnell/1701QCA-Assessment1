@@ -8,6 +8,7 @@
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.010.png)
 https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard/traffic-signal
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.011.png)
+https://www.hackster.io/anish78/how-to-read-temperature-using-bbc-micro-bit-34bf58#toc-step-3-2
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.012.png)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.013.png)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.014.png)
