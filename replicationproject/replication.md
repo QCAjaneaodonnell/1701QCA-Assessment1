@@ -19,14 +19,14 @@ Temperature Gauge
 
 This project is related to mine because (insert reasons here).
 
-### Related project 1 ###
-(Insert name of project)
+### Related project 2 ###
+Traffic lights 
 
 (Insert URL to project)
+![Image of traffic lights](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/IMG_9112.PNG)
 
-![Image](IMG_9072.png)
 
-This project is related to mine because (insert reasons here).
+This project helped me understand how to configure multiple lights at the same time. I learnt that whilst each of the lights have a write pin, the output goes via a singular wire. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
