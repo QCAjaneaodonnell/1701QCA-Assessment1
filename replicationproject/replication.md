@@ -3,6 +3,7 @@
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.003.png)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.004.png)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.005.png)
+![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.0015.png)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.008.png)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.009.png)
 ![Image](https://raw.githubusercontent.com/QCAjaneaodonnell/1701QCA-Assessment1/master/replicationproject/Temperature%20Gauge%20.010.png)
